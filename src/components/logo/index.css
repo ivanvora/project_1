@@ -1,0 +1,17 @@
+.logo-body{
+
+    border: 3px solid orange;
+    border-radius: 16px;
+    width: min-content;
+    text-align: center;
+    margin:12px;
+    background: rgb(12,144,210);
+    background: linear-gradient(0deg, rgba(12,144,210,0.9178265056022409) 0%, rgba(0,0,0,0) 76%, rgba(0,230,255,0.9038209033613446) 100%);
+    font-size: 24px;
+    color:blue ;
+    padding: 12px;
+    font-weight: 900;
+    -webkit-box-shadow: 0px 0px 9px 12px rgba(255, 225, 0, 0.33);
+    -moz-box-shadow: 0px 0px 9px 12px rgba(255, 225, 0, 0.33);
+    box-shadow: 0px 0px 9px 12px rgba(255, 225, 0, 0.33);
+}
